@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCraftData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CraftData>
+		<Key>DreadedEntity.PersonalInductionCharger.Recipe1</Key>
+		<Category>powerstorage</Category>
+		<Tier>0</Tier>
+		<CraftedKey>DreadedEntity.PersonalInductionCharger</CraftedKey>
+		<CraftedAmount>1</CraftedAmount>
+		<Costs>
+			<CraftCost>
+				<Key>CopperWire</Key>
+				<Amount>10</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>IronGear</Key>
+				<Amount>5</Amount>
+			</CraftCost>
+			<CraftCost>
+				<Key>LightWeightMachineHousing</Key>
+				<Amount>2</Amount>
+			</CraftCost>
+		</Costs>
+		<Description>TODO</Description>
+		<Hint>Test hint</Hint>
+		<ResearchRequirements>
+			<Research>T1 Power</Research>
+		</ResearchRequirements>
+	</CraftData>
+</ArrayOfCraftData>

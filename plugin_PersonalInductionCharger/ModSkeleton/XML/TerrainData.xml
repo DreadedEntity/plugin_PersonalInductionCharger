@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTerrainDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<TerrainDataEntry>
+		<Key>DreadedEntity.PersonalInductionCharger</Key>
+		<Name>Personal Induction Charger</Name>
+		<ResearchValue>5</ResearchValue>
+		<LayerType>PrimaryTerrain</LayerType>
+		<TopTexture>192</TopTexture>
+		<SideTexture>192</SideTexture>
+		<BottomTexture>192</BottomTexture>
+		<GUITexture>192</GUITexture>
+		<isSolid>true</isSolid>
+		<isTransparent>false</isTransparent>
+		<isHollow>false</isHollow>
+		<isGlass>false</isGlass>
+		<isGarbage>false</isGarbage>
+		<isPassable>false</isPassable>
+		<hasObject>true</hasObject>
+		<hasEntity>true</hasEntity>
+		<isMultiBlockMachine>false</isMultiBlockMachine>
+		<PickReplacement></PickReplacement>
+		<OreType>None</OreType>
+		<AudioWalkType>Dirt</AudioWalkType>
+		<AudioBuildType>Dirt</AudioBuildType>
+		<AudioDestroyType>None</AudioDestroyType>
+	</TerrainDataEntry>
+</ArrayOfTerrainDataEntry>
